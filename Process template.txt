@@ -1,0 +1,26 @@
+Process
+
+1. Def problem
+What? Why? How?
+
+2. Prep data
+-Select
+-Preprocess: format, clean, sampling
+-Transform: scaling, attr decomposition/ aggregation
+
+3. Spot check algo
+10 fold cross-val
+use different algos
+
+4. Improve result
+- Algo tuning
+- Ensemble
+- Extreme feature engineering
+
+5. Present result
+- Context(Why)
+- Problem(Question)
+- Solution(Answer)
+- Findings
+- Limitations
+- Conclusion(Why + Q+ A)
